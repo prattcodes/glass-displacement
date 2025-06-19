@@ -2,7 +2,7 @@
 
 A modern React application showcasing advanced glass displacement effects with SVG filters. This project demonstrates how to create beautiful, interactive glass morphism effects with configurable controls.
 
-![Glass Displacement Effect Demo](demo.gif)
+https://github.com/user-attachments/assets/47d711c6-16d8-4bd8-a318-fbd803bbdb1f
 
 ## Features
 
